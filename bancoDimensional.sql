@@ -41,7 +41,7 @@ SELECT DISTINCT
     loja_id,
     nome_loja,
     endereco_loja,
-    cidade_loja_loja
+    cidade_loja
 FROM public.tbestoque
 WHERE 1 = 1;
 
@@ -89,14 +89,13 @@ SELECT DISTINCT
 ----fato_estoque----
 
 ----Criação----
-CREATE TABLE public.fato_estoque AS
+CREATE TABLE dw.fato_estoque AS
 SELECT DISTINCT
     produto_id,
     preco_produto,
     fornecedor_id,
     loja_id,
     quantidade_estoque,
-    preco_produto,
     data_estoque
 FROM public.tbestoque
 WHERE 1 = 1;
@@ -104,5 +103,3 @@ WHERE 1 = 1;
 ---- Consulta-----
 SELECT *
 FROM dw.fato_estoque;
-
-
