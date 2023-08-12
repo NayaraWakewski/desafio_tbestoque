@@ -1,4 +1,4 @@
-[![texto alt](https://media.licdn.com/dms/image/C4D16AQGD8xrlsWsOCA/profile-displaybackgroundimage-shrink_350_1400/0/1668865864528?e=1692835200&v=beta&t=Xf4IQvk_e_zZru7hFcy7H09wIYpRrjAfYTvgMXJqquc)](https://digitalcollege.com.br)
+![texto alt](https://digitalcollege.com.br/wp-content/webp-express/webp-images/uploads/2022/05/logo-digital.png.webp)
 
 
 # ODISSEIA EMPRESA Z
@@ -100,7 +100,8 @@ GROUP BY dp.nome_produto, dp.categoria_produto;
 
 Para visualizar o dashboard do projeto, acessar o link abaixo:
 
-[Dashboard Análise de Estoque - Empresa Z](https://app.powerbi.com/groups/me/reports/ea008133-1cd5-49c9-834b-7924368c88e7?ctid=ca76ac1c-cf3f-49e9-b6aa-128bad72b989&pbi_source=linkShare&bookmarkGuid=2b53a31b-19c3-4f15-a404-96a6adffb12f)
+https://app.powerbi.com/view?r=eyJrIjoiODA2ZTFkNzctMDk5ZS00MmRkLWFkNmMtZGRhNGMzNTQ4ZWFmIiwidCI6ImJkMWMxZTAzLTU2MDMtNDUzNy04ODY5LWQ5ZGQyYzRiMjc2MiJ9
+
 
 
 ## 🎁 Expressões de gratidão
