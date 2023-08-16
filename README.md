@@ -8,7 +8,7 @@ Este é um repositório com a solução para a lentidão do banco de dados da Em
 
 ## 🚀 Começando
 
-Neste projeto, realizamos a análise de dados de pagamento de empenho disponibilizados pelo governo do estado do Ceará. O objetivo é extrair insights relevantes a partir desses dados, identificando padrões de gastos, tendências e possíveis áreas de melhoria na gestão financeira.
+Neste projeto, realizamos a análise de dados; O objetivo é extrair insights relevantes a partir desses dados.
 
 > **Foi dividida a análise em 4 etapas:**
 
